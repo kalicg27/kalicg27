@@ -6,25 +6,6 @@ Passionate about defending networks, analyzing adversarial behavior, and automat
 
 Based in **Warsaw, Poland**, I am a Security Operations Analyst specializing in the **Microsoft Security Stack (Sentinel, Defender)** and **Linux Infrastructure**. My background bridges the gap between cloud security policies, analytical software testing, and hands-on technical investigation.
 ---
-## 🚀 Featured Cybersecurity Projects
-
-### 🔹 [Azure-Sentinel-SOC-Lab](https://github.com/kalicg27/Azure-Sentinel-SOC-Lab)
-* **What it does:** Set up a live cloud-based SIEM environment to ingest security logs from a vulnerable Windows VM honeypot. Configured custom analytics rules to trigger high-severity incident alerts and tracked real-world brute-force mapping metrics from global malicious actors.
-* **Core Skills:** Microsoft Sentinel, KQL (Kusto Query Language), Log Analytics Workspaces, Threat Intelligence Feeds, Cloud Security.
-* **Key Outcome:** Wrote KQL queries to parse failed RDP events (Event ID 4625) and mapped geolocation data to identify attack origins.
-
-### 🔹 [Linux-Auth-Log-Parser](https://github.com/kalicg27/Linux-Auth-Log-Parser)
-* **What it does:** Developed a lightweight, automated log analysis script designed to comb through Linux `/var/log/auth.log` files. The tool filters out routine noise to extract targeted indicators of compromise (IoCs), such as repeated SSH authentication failures, unauthorized `sudo` attempts, and newly created user accounts.
-* **Core Skills:** Python/Bash Scripting, Regular Expressions (Regex), Log Parsing, Automation.
-* **Key Outcome:** Drastically reduces log triage time for triage analysts by outputting a clean, structured JSON or CSV summary of malicious activity.
-
-### 🔹 [Network-Forensics-Analysis](https://github.com/kalicg27/Network-Forensics-Analysis)
-* **What it does:** Conducted deep-dive packet analysis on malicious traffic captures (PCAPs) to reconstruct security incidents. Successfully identified data exfiltration techniques, command-and-control (C2) communication channels, and web application attacks like SQL Injection and Cross-Site Scripting (XSS).
-* **Core Skills:** Wireshark, Tshark, Network Protocol Analysis (TCP/IP, DNS, HTTP, TLS), Incident Reconstruction.
-* **Key Outcome:** Isolated malicious payloads from network streams and documented step-by-step traffic timelines for incident response reporting.
-
----
-
 ## 🧰 Tech Stack & Tools
 
 ### 🖥️ SIEM & EDR
@@ -49,6 +30,24 @@ Based in **Warsaw, Poland**, I am a Security Operations Analyst specializing in 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+## 🚀 Featured Cybersecurity Projects
+
+### 🔹 [Azure-Sentinel-SOC-Lab](https://github.com/kalicg27/Azure-Sentinel-SOC-Lab)
+* **What it does:** Set up a live cloud-based SIEM environment to ingest security logs from a vulnerable Windows VM honeypot. Configured custom analytics rules to trigger high-severity incident alerts and tracked real-world brute-force mapping metrics from global malicious actors.
+* **Core Skills:** Microsoft Sentinel, KQL (Kusto Query Language), Log Analytics Workspaces, Threat Intelligence Feeds, Cloud Security.
+* **Key Outcome:** Wrote KQL queries to parse failed RDP events (Event ID 4625) and mapped geolocation data to identify attack origins.
+
+### 🔹 [Linux-Auth-Log-Parser](https://github.com/kalicg27/Linux-Auth-Log-Parser)
+* **What it does:** Developed a lightweight, automated log analysis script designed to comb through Linux `/var/log/auth.log` files. The tool filters out routine noise to extract targeted indicators of compromise (IoCs), such as repeated SSH authentication failures, unauthorized `sudo` attempts, and newly created user accounts.
+* **Core Skills:** Python/Bash Scripting, Regular Expressions (Regex), Log Parsing, Automation.
+* **Key Outcome:** Drastically reduces log triage time for triage analysts by outputting a clean, structured JSON or CSV summary of malicious activity.
+
+### 🔹 [Network-Forensics-Analysis](https://github.com/kalicg27/Network-Forensics-Analysis)
+* **What it does:** Conducted deep-dive packet analysis on malicious traffic captures (PCAPs) to reconstruct security incidents. Successfully identified data exfiltration techniques, command-and-control (C2) communication channels, and web application attacks like SQL Injection and Cross-Site Scripting (XSS).
+* **Core Skills:** Wireshark, Tshark, Network Protocol Analysis (TCP/IP, DNS, HTTP, TLS), Incident Reconstruction.
+* **Key Outcome:** Isolated malicious payloads from network streams and documented step-by-step traffic timelines for incident response reporting.
+
 ---
 ## 🎓 Education & Background
 
