@@ -3,6 +3,7 @@
 ### 🛡️ SOC Analyst | Detection Engineer | Blue Teamer
 
 Passionate about defending networks, analyzing adversarial behavior, and automating security operations. I use GitHub to showcase my hands-on labs, custom detection rules, and automation scripts.
+
 Based in **Warsaw, Poland**, I am a Security Operations Analyst specializing in the **Microsoft Security Stack (Sentinel, Defender)** and **Linux Infrastructure**. My background bridges the gap between cloud security policies, analytical software testing, and hands-on technical investigation.
 ---
 
