@@ -33,7 +33,11 @@ Passionate about defending networks, analyzing adversarial behavior, and automat
 * **OS Experience:** Windows Server, Linux (Ubuntu, Kali, Rocky)
 
 ---
+## 🎓 Education & Background
 
+*   **B.Eng. in Computer Science (Security & Continuity of IT)** — WSB University, Dąbrowa Górnicza, Poland (2021-2025). 
+  
+---
 ## 📜 Certifications & Continuous Learning
 ### 🛡️ Cybersecurity Credentials
 * **(ISC)² Certified in Cybersecurity (CC)** — Completed 
@@ -50,7 +54,13 @@ Passionate about defending networks, analyzing adversarial behavior, and automat
 * **HackerRank REST API** — Verified Proficiency
 * **Postman API Fundamentals Student Expert** — Certified Creator
 ---
-
+## 🗣️ Languages
+*   **Uzbek:** Native 
+*   **English:** Fluent C1
+*   **Russian:** Fluent C2
+*   **Polish:** Conversational (B1)
+*   **French:** Basic (A2)
+--- 
 ## 📫 Connect with me:
 * **LinkedIn:** [https://www.linkedin.com/in/kamran-alimkulov-00196b218/]
 * **Email:** [kamranalimkulov27@gmail.com]
