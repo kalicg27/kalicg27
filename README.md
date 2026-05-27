@@ -4,7 +4,9 @@
 
 Passionate about defending networks, analyzing adversarial behavior, and automating security operations. I use GitHub to showcase my hands-on labs, custom detection rules, and automation scripts.
 
-Based in **Warsaw, Poland**, I am a Security Operations Analyst specializing in the **Microsoft Security Stack (Sentinel, Defender)** and **Linux Infrastructure**. 
+Based in **Warsaw, Poland**, I am a Certified Security Operations Analyst specializing in the **Microsoft Security Stack (Sentinel, Defender)** and **Linux Infrastructure**. 
+
+---
 ---
 ## 🧰 Tech Stack & Tools
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -41,10 +43,10 @@ Based in **Warsaw, Poland**, I am a Security Operations Analyst specializing in 
 ---
 ## 📜 Certifications & Continuous Learning
 ### 🛡️ Cybersecurity Credentials
-* **(ISC)² Certified in Cybersecurity (CC)** — Completed 
-* **CompTIA Security+** — Expected June 2026 (Exam code: SY0-701)
-* **Microsoft SC-200: Security Operations Analyst** — *In-Progress / Expected [2026]*
-* **Cisco Introduction to Cybersecurity** — Completed
+* **(ISC)² Certified in Cybersecurity (CC)** — Completed - Active
+* **Microsoft SC-200: Security Operations Analyst** — *In-Progress / Expected [June 2026]*
+* **CompTIA Security+** — Expected July 2026 (Exam code: SY0-701)
+* **Cisco Introduction to Cybersecurity** — Completed - Active
 
 ### ☁️ Cloud & Compliance
 * **Microsoft SC-900: Security, Compliance, and Identity Fundamentals** — Fully Trained
