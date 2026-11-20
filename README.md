@@ -27,8 +27,8 @@ A modular gameplay mechanics sandbox exploring custom `UActorComponent` and `USc
 ## 💻 Core Skills & Stack
 
 * **Languages:** C++ (Modern C++, UE Macros & Reflection), Python, HLSL / GLSL
-* **Game Engine & Tools:** Unreal Engine 5 (Slate UI, Editor Extensions, Gameplay Framework, Enhanced Input, Niagara, Materials/Shaders)
-* **DCC & Graphics:** Autodesk Maya, Rendering Pipelines, Asset Optimization
+* **UI & Editor Architecture:** Slate UI, UMG (Unreal Motion Graphics), Common UI, Custom Editor Extensions (`IDetailsView`, `SDockTab`)
+* **Game Engine & Graphics:** Unreal Engine 5 (Gameplay Framework, Enhanced Input, Niagara, Materials/Shaders), Autodesk Maya, Rendering Pipelines
 ---
 ## 🎓 Education & Background
 
