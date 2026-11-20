@@ -43,5 +43,5 @@ A modular gameplay mechanics sandbox exploring custom `UActorComponent` and `USc
 *   **French:** Basic (A2)
 --- 
 ## 📫 Connect with me:
-* **LinkedIn:** [https://www.linkedin.com/in/kamran-alimkulov-00196b218/]
+* **LinkedIn:** [https://www.linkedin.com/in/komron-alimkulov-00196b218?]
 * **Email:** [kamranalimkulov27@gmail.com]
