@@ -23,7 +23,12 @@ A modular gameplay mechanics sandbox exploring custom `UActorComponent` and `USc
 * **Physics Object Manipulation (`UGrabber`):** Sweep-trace detection paired with `UPhysicsHandleComponent` for picking up, carrying, and releasing physics-simulating actors[cite: 11].
 * **Modular Movement & Trigger Systems (`UMover`, `UTriggerComponent`):** Frame-rate-independent actor interpolation (`FMath::VInterpConstantTo`)[cite: 12] and tag-filtered overlap volumes[cite: 18, 19].
 * **Event-Driven Weapon & Pickup Flow (`UTP_WeaponComponent`, `UTP_PickUpComponent`):** Dynamic multicast delegates (`FOnPickUp`) that attach skeletal mesh weapons to character sockets and dynamically bind `EnhancedInput` mapping contexts[cite: 14, 15, 16, 17].
+---
+## 💻 Core Skills & Stack
 
+* **Languages:** C++ (Modern C++, UE Macros & Reflection), Python, HLSL / GLSL
+* **Game Engine & Tools:** Unreal Engine 5 (Slate UI, Editor Extensions, Gameplay Framework, Enhanced Input, Niagara, Materials/Shaders)
+* **DCC & Graphics:** Autodesk Maya, Rendering Pipelines, Asset Optimization
 ---
 ## 🎓 Education & Background
 
