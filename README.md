@@ -1,6 +1,6 @@
 # Hi, I'm Komron 👋
 
-### Technical Artist | C++ Engineer | Unreal Engine Developer
+### C++ Unreal Engine Developer | Technical Artist
 
 Passionate about Unreal Engine, Rendering, Computer Graphics Engineering. DCC - Maya
 ---
