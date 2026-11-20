@@ -1,6 +1,6 @@
 # Hi, I'm Kamran 👋
 
-### Technical Artist | Rendering Engineer
+### Technical Artist | C++ Engineer | Unreal Engine Developer
 
 Passionate about Unreal Engine, Rendering, Computer Graphics Engineering. DCC - Maya
 ---
