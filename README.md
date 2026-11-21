@@ -5,6 +5,13 @@
 Passionate about Unreal Engine, Rendering, Computer Graphics Engineering. DCC - Maya
 ---
 ## 🛠️ Featured Projects
+### 🖥️ [KAFrontedUI — Unreal Engine 5 Frontend & Menu Framework](https://github.com/kalicg27/KAFrontedUI)
+**C++ | Common UI | UMG | Input Routing & Focus Management**
+
+A C++-driven frontend UI architecture built with Unreal Engine's **Common UI** and **UMG** frameworks for responsive, cross-platform game menus.
+* **Common UI Activatable Widget Stack:** Manages layered menu navigation (`UCommonActivatableWidgetStack`, `UCommonActivatableWidget`) for clean screen transitions, modal confirmations, and back-action handling.
+* **Cross-Input Navigation & Focus Routing:** Seamless switching between Mouse/Keyboard and Gamepad inputs using Common UI input actions, routing, and automatic focus restoration.
+* **Modular C++ & UMG Binding:** Separates core menu logic, async confirmation dialogs, and settings/frontend state management in C++ (`BindWidget`, `BindWidgetOptional`) from designer-driven UMG styling.
 
 ### 🧰 [KaliToolSet — Unreal Engine 5 Editor Utility Plugin](https://github.com/kalicg27/KaliToolSet)
 **C++ | Slate UI | Unreal Editor Internals | Reflection (`FProperty`)**
